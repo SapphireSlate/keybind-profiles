@@ -1,6 +1,6 @@
 {
   "version": "1.0.0",
-  "lastUpdated": "2025-12-07T22:19:21.478Z",
+  "lastUpdated": "2025-12-07T22:20:34.096Z",
   "cdnBaseUrl": "https://cdn.jsdelivr.net/gh/SapphireSlate/keybind-profiles@main",
   "games": [
     {
@@ -89,17 +89,17 @@
     },
     {
       "gameId": "battlefield-6",
-      "gameName": "BattlefieldÃ¢ÂÂ¢ 6",
+      "gameName": "BattlefieldÃÂ¢ÃÂÃÂ¢ 6",
       "coverImage": null,
       "profiles": [
         {
           "id": "battlefield6_default_v1",
-          "name": "Default BattlefieldÃ¢ÂÂ¢ 6 Controls",
+          "name": "Default BattlefieldÃÂ¢ÃÂÃÂ¢ 6 Controls",
           "type": "official",
           "path": "profiles/battlefield-6-default-v1.0.0.json",
           "version": "1.0.0",
           "author": "KeybindCompanion",
-          "description": "Official default keybindings for BattlefieldÃ¢ÂÂ¢ 6",
+          "description": "Official default keybindings for BattlefieldÃÂ¢ÃÂÃÂ¢ 6",
           "lastUpdated": "2025-10-20T23:00:00Z",
           "tags": [
             "default",
@@ -577,6 +577,19 @@
           "tags": [
             "default",
             "official"
+          ]
+        },
+        {
+          "id": "phasmophobia_phasmophobia_miwadg34",
+          "name": "Phasmophobia",
+          "path": "profiles/phasmophobia/phasmophobia.json",
+          "type": "community",
+          "author": "testing",
+          "description": "Phasmophobia keybindings for Phasmophobia",
+          "version": "1.0.0",
+          "lastUpdated": "2025-12-07T22:20:34.096Z",
+          "tags": [
+            "community"
           ]
         }
       ]
