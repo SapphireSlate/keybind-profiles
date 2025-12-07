@@ -1,5 +1,5 @@
 {
-  "profileId": "escape-from-tarkov_escape-from-tarkov_miw9ydqk",
+  "profileId": "escape-from-tarkov_escape-from-tarkov_miwabw1o",
   "profileName": "Escape From Tarkov",
   "gameName": "Escape From Tarkov",
   "devices": [
@@ -421,10 +421,10 @@
   ],
   "version": "1.0.0",
   "_hubMeta": {
-    "author": "tester",
+    "author": "still testing",
     "description": "Escape From Tarkov keybindings for Escape From Tarkov",
     "type": "community",
-    "submittedAt": "2025-12-07T22:08:50.444Z",
+    "submittedAt": "2025-12-07T22:19:20.700Z",
     "tags": [
       "escape from tarkov",
       "community"
