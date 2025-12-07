@@ -1,6 +1,6 @@
 {
   "version": "1.0.0",
-  "lastUpdated": "2025-12-06T23:57:09.302Z",
+  "lastUpdated": "2025-12-07T22:08:51.516Z",
   "cdnBaseUrl": "https://cdn.jsdelivr.net/gh/SapphireSlate/keybind-profiles@main",
   "games": [
     {
@@ -89,17 +89,17 @@
     },
     {
       "gameId": "battlefield-6",
-      "gameName": "Battlefield™ 6",
+      "gameName": "Battlefieldâ¢ 6",
       "coverImage": null,
       "profiles": [
         {
           "id": "battlefield6_default_v1",
-          "name": "Default Battlefield™ 6 Controls",
+          "name": "Default Battlefieldâ¢ 6 Controls",
           "type": "official",
           "path": "profiles/battlefield-6-default-v1.0.0.json",
           "version": "1.0.0",
           "author": "KeybindCompanion",
-          "description": "Official default keybindings for Battlefield™ 6",
+          "description": "Official default keybindings for Battlefieldâ¢ 6",
           "lastUpdated": "2025-10-20T23:00:00Z",
           "tags": [
             "default",
@@ -776,6 +776,25 @@
           "tags": [
             "default",
             "official"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "escape-from-tarkov",
+      "name": "Escape From Tarkov",
+      "profiles": [
+        {
+          "id": "escape-from-tarkov_escape-from-tarkov_miw9ydqk",
+          "name": "Escape From Tarkov",
+          "file": "profiles/escape-from-tarkov/escape-from-tarkov.json",
+          "type": "community",
+          "author": "tester",
+          "description": "Escape From Tarkov keybindings for Escape From Tarkov",
+          "version": "1.0.0",
+          "createdAt": "2025-12-07T22:08:51.516Z",
+          "tags": [
+            "community"
           ]
         }
       ]
