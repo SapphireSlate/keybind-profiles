@@ -1,0 +1,40 @@
+name: Update stats.json
+
+on:
+  workflow_dispatch:
+
+jobs:
+  update-stats:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Set up Node
+        uses: actions/setup-node@v4
+        with:
+          node-version: 20
+
+      - name: Install deps
+        run: npm ci
+        working-directory: .
+        continue-on-error: true  # placeholder; repo may be data-only
+
+      - name: Update stats (placeholder)
+        run: |
+          echo "TODO: implement stats update (downloads/upvotes/downvotes/favorites)"
+          echo "lastUpdated: $(date -u +"%Y-%m-%dT%H:%M:%SZ")"
+
+      - name: Commit changes
+        run: |
+          git config user.name "profile-hub-bot"
+          git config user.email "actions@users.noreply.github.com"
+          git status
+          git add stats.json
+          git commit -m "chore: update stats.json" || echo "No changes to commit"
+          git status
+
+      - name: Push
+        if: success()
+        run: git push
+
