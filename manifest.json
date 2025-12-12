@@ -1,6 +1,6 @@
 {
   "version": "1.0.0",
-  "lastUpdated": "2025-12-09T22:14:58.925Z",
+  "lastUpdated": "2025-12-12T02:14:27.177Z",
   "cdnBaseUrl": "https://cdn.jsdelivr.net/gh/SapphireSlate/keybind-profiles@main",
   "games": [
     {
@@ -89,17 +89,17 @@
     },
     {
       "gameId": "battlefield-6",
-      "gameName": "BattlefieldÃÂÃÂÃÂÃÂ¢ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ¢ 6",
+      "gameName": "BattlefieldÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ¢ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ¢ 6",
       "coverImage": null,
       "profiles": [
         {
           "id": "battlefield6_default_v1",
-          "name": "Default BattlefieldÃÂÃÂÃÂÃÂ¢ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ¢ 6 Controls",
+          "name": "Default BattlefieldÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ¢ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ¢ 6 Controls",
           "type": "official",
           "path": "profiles/battlefield-6-default-v1.0.0.json",
           "version": "1.0.0",
           "author": "KeybindCompanion",
-          "description": "Official default keybindings for BattlefieldÃÂÃÂÃÂÃÂ¢ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ¢ 6",
+          "description": "Official default keybindings for BattlefieldÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ¢ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ¢ 6",
           "lastUpdated": "2025-10-20T23:00:00Z",
           "tags": [
             "default",
@@ -768,6 +768,19 @@
           "description": "Testing keybindings for Test",
           "version": "1.0.0",
           "lastUpdated": "2025-12-09T22:14:58.925Z",
+          "tags": [
+            "community"
+          ]
+        },
+        {
+          "id": "test_testing_mj28hmtz",
+          "name": "Testing",
+          "path": "profiles/test/testing.json",
+          "type": "community",
+          "author": "Tester",
+          "description": "Testing keybindings for Test",
+          "version": "1.0.0",
+          "lastUpdated": "2025-12-12T02:14:27.177Z",
           "tags": [
             "community"
           ]
