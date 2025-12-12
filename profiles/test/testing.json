@@ -1,5 +1,5 @@
 {
-  "profileId": "test_testing_miz51ypv",
+  "profileId": "test_testing_mj28hmtz",
   "profileName": "Testing",
   "gameName": "Test",
   "devices": [
@@ -16,7 +16,7 @@
               "id": "act_moveForward",
               "actionName": "Move Forward",
               "defaultBinding": "W",
-              "userBinding": "W"
+              "userBinding": "W;Y"
             },
             {
               "id": "act_moveBackward",
@@ -242,10 +242,10 @@
   ],
   "version": "1.0.0",
   "_hubMeta": {
-    "author": "Bomb",
+    "author": "Tester",
     "description": "Testing keybindings for Test",
     "type": "community",
-    "submittedAt": "2025-12-09T22:14:58.051Z",
+    "submittedAt": "2025-12-12T02:14:26.519Z",
     "tags": [
       "test",
       "community"
