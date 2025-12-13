@@ -1,6 +1,6 @@
 {
   "version": "1.0.0",
-  "lastUpdated": "2025-12-12T02:14:27.177Z",
+  "lastUpdated": "2025-12-13T01:44:23.731Z",
   "cdnBaseUrl": "https://cdn.jsdelivr.net/gh/SapphireSlate/keybind-profiles@main",
   "games": [
     {
@@ -188,6 +188,26 @@
           "tags": [
             "default",
             "official"
+          ]
+        }
+      ]
+    },
+    {
+      "gameId": "davinci-resolved",
+      "gameName": "DaVinci Resolved",
+      "coverImage": null,
+      "profiles": [
+        {
+          "id": "davinci-resolved_2084est_mj3mutve",
+          "name": "20:84est",
+          "path": "profiles/davinci-resolved/2084est.json",
+          "type": "community",
+          "author": "Who",
+          "description": "20:84est keybindings for DaVinci Resolved",
+          "version": "1.0.0",
+          "lastUpdated": "2025-12-13T01:44:23.731Z",
+          "tags": [
+            "community"
           ]
         }
       ]
