@@ -1,5 +1,5 @@
 {
-  "profileId": "davinci-resolved_2084est_mj3mutve",
+  "profileId": "davinci-resolved_2084est_mj3oh0sc",
   "profileName": "20:84est",
   "gameName": "DaVinci Resolved",
   "devices": [
@@ -505,10 +505,10 @@
   ],
   "version": "1.0.0",
   "_hubMeta": {
-    "author": "Who",
+    "author": "test",
     "description": "20:84est keybindings for DaVinci Resolved",
     "type": "community",
-    "submittedAt": "2025-12-13T01:44:22.970Z",
+    "submittedAt": "2025-12-13T02:29:37.980Z",
     "tags": [
       "davinci resolved",
       "community"
