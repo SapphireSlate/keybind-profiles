@@ -1,6 +1,6 @@
 {
   "version": "1.0.0",
-  "lastUpdated": "2025-12-13T02:21:27.574Z",
+  "lastUpdated": "2025-12-13T02:21:38.690Z",
   "cdnBaseUrl": "https://cdn.jsdelivr.net/gh/SapphireSlate/keybind-profiles@main",
   "games": [
     {
@@ -821,6 +821,19 @@
           "description": "Testing worker",
           "version": "1.0.0",
           "lastUpdated": "2025-12-13T02:21:27.574Z",
+          "tags": [
+            "community"
+          ]
+        },
+        {
+          "id": "test-game_diagnostic-test_mj3o6qi7",
+          "name": "Diagnostic Test",
+          "path": "profiles/test-game/diagnostic-test.json",
+          "type": "community",
+          "author": "Diagnostic User",
+          "description": "Testing worker",
+          "version": "1.0.0",
+          "lastUpdated": "2025-12-13T02:21:38.690Z",
           "tags": [
             "community"
           ]
