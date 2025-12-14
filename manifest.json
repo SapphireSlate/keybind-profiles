@@ -1,6 +1,6 @@
 {
   "version": "1.0.0",
-  "lastUpdated": "2025-12-13T02:29:38.648Z",
+  "lastUpdated": "2025-12-14T22:37:45.441Z",
   "cdnBaseUrl": "https://cdn.jsdelivr.net/gh/SapphireSlate/keybind-profiles@main",
   "games": [
     {
@@ -814,6 +814,19 @@
           "description": "Testing keybindings for Test",
           "version": "1.0.0",
           "lastUpdated": "2025-12-12T02:14:27.177Z",
+          "tags": [
+            "community"
+          ]
+        },
+        {
+          "id": "test_testing_mj6b2il1",
+          "name": "Testing",
+          "path": "profiles/test/testing.json",
+          "type": "community",
+          "author": "Sapphire",
+          "description": "Testing keybindings for Test",
+          "version": "1.0.0",
+          "lastUpdated": "2025-12-14T22:37:45.441Z",
           "tags": [
             "community"
           ]
