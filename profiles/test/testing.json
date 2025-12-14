@@ -1,5 +1,5 @@
 {
-  "profileId": "test_testing_mj28hmtz",
+  "profileId": "test_testing_mj6b2il1",
   "profileName": "Testing",
   "gameName": "Test",
   "devices": [
@@ -242,10 +242,10 @@
   ],
   "version": "1.0.0",
   "_hubMeta": {
-    "author": "Tester",
+    "author": "Sapphire",
     "description": "Testing keybindings for Test",
     "type": "community",
-    "submittedAt": "2025-12-12T02:14:26.519Z",
+    "submittedAt": "2025-12-14T22:37:44.725Z",
     "tags": [
       "test",
       "community"
