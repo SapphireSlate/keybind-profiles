@@ -1,6 +1,6 @@
 {
   "version": "1.0.0",
-  "lastUpdated": "2025-12-18T20:02:58.051Z",
+  "lastUpdated": "2025-12-18T20:11:11.837Z",
   "cdnBaseUrl": "https://cdn.jsdelivr.net/gh/SapphireSlate/keybind-profiles@main",
   "games": [
     {
@@ -430,19 +430,6 @@
       "gameName": "Games",
       "coverImage": null,
       "profiles": [
-        {
-          "id": "games_new-profile_mjbv5sd4",
-          "name": "New Profile",
-          "path": "profiles/games/new-profile.json",
-          "type": "community",
-          "author": "Sapphire",
-          "description": "New Profile keybindings for Games",
-          "version": "1.0.0",
-          "lastUpdated": "2025-12-18T19:59:01.465Z",
-          "tags": [
-            "community"
-          ]
-        },
         {
           "id": "games_1218_mjbvav3f",
           "name": "12/18",
@@ -971,5 +958,5 @@
       ]
     }
   ],
-  "totalProfiles": 47
+  "totalProfiles": 48
 }
