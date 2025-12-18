@@ -1,0 +1,254 @@
+{
+  "profileId": "games_1218_mjbvav3f",
+  "profileName": "12/18",
+  "gameName": "Games",
+  "devices": [
+    {
+      "id": "keyboard_mouse",
+      "deviceType": "keyboardMouse",
+      "customName": "Keyboard & Mouse",
+      "categories": [
+        {
+          "id": "movement",
+          "categoryName": "Movement",
+          "actions": [
+            {
+              "id": "act_moveForward",
+              "actionName": "Move Forward",
+              "defaultBinding": "W",
+              "userBinding": "W;G"
+            },
+            {
+              "id": "act_moveBackward",
+              "actionName": "Move Backward",
+              "defaultBinding": "S",
+              "userBinding": "S"
+            },
+            {
+              "id": "act_strafeLeft",
+              "actionName": "Strafe Left",
+              "defaultBinding": "A",
+              "userBinding": "A"
+            },
+            {
+              "id": "act_strafeRight",
+              "actionName": "Strafe Right",
+              "defaultBinding": "D",
+              "userBinding": "D"
+            },
+            {
+              "id": "act_jump",
+              "actionName": "Jump",
+              "defaultBinding": "Space",
+              "userBinding": "Space"
+            },
+            {
+              "id": "act_crouch",
+              "actionName": "Crouch",
+              "defaultBinding": "LCtrl",
+              "userBinding": "LCtrl"
+            },
+            {
+              "id": "act_walk",
+              "actionName": "Walk",
+              "defaultBinding": "LShift",
+              "userBinding": "LShift"
+            }
+          ]
+        },
+        {
+          "id": "combat",
+          "categoryName": "Combat",
+          "actions": [
+            {
+              "id": "act_primaryFire",
+              "actionName": "Primary Fire",
+              "defaultBinding": "LMB",
+              "userBinding": "LMB"
+            },
+            {
+              "id": "act_secondaryFire",
+              "actionName": "Secondary Fire / Aim",
+              "defaultBinding": "RMB",
+              "userBinding": "RMB"
+            },
+            {
+              "id": "act_reload",
+              "actionName": "Reload",
+              "defaultBinding": "R",
+              "userBinding": "R"
+            },
+            {
+              "id": "act_useInteract",
+              "actionName": "Use / Interact",
+              "defaultBinding": "E",
+              "userBinding": "E"
+            },
+            {
+              "id": "act_dropWeapon",
+              "actionName": "Drop Weapon",
+              "defaultBinding": "G",
+              "userBinding": "G"
+            },
+            {
+              "id": "act_inspectWeapon",
+              "actionName": "Inspect Weapon",
+              "defaultBinding": "F",
+              "userBinding": "F"
+            }
+          ]
+        },
+        {
+          "id": "interface",
+          "categoryName": "Interface",
+          "actions": [
+            {
+              "id": "act_inventory",
+              "actionName": "Open Inventory",
+              "defaultBinding": "I",
+              "userBinding": "I"
+            },
+            {
+              "id": "act_scoreboard",
+              "actionName": "Show Scoreboard",
+              "defaultBinding": "Tab",
+              "userBinding": "Tab"
+            },
+            {
+              "id": "act_console",
+              "actionName": "Console",
+              "defaultBinding": "~",
+              "userBinding": "~"
+            },
+            {
+              "id": "act_chat",
+              "actionName": "Chat",
+              "defaultBinding": "Y",
+              "userBinding": "Y"
+            },
+            {
+              "id": "act_teamChat",
+              "actionName": "Team Chat",
+              "defaultBinding": "U",
+              "userBinding": "U"
+            },
+            {
+              "id": "act_menu",
+              "actionName": "Game Menu",
+              "defaultBinding": "Escape",
+              "userBinding": "Escape"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "gamepad",
+      "deviceType": "gamepad",
+      "customName": "Controller",
+      "categories": [
+        {
+          "id": "movement",
+          "categoryName": "Movement",
+          "actions": [
+            {
+              "id": "act_move",
+              "actionName": "Move",
+              "defaultBinding": "LeftStick",
+              "userBinding": "LeftStick"
+            },
+            {
+              "id": "act_camera",
+              "actionName": "Camera Look",
+              "defaultBinding": "RightStick",
+              "userBinding": "RightStick"
+            },
+            {
+              "id": "act_jump",
+              "actionName": "Jump",
+              "defaultBinding": "A",
+              "userBinding": "A"
+            },
+            {
+              "id": "act_crouch",
+              "actionName": "Crouch",
+              "defaultBinding": "B",
+              "userBinding": "B"
+            },
+            {
+              "id": "act_sprint",
+              "actionName": "Sprint",
+              "defaultBinding": "LeftStickPress",
+              "userBinding": "LeftStickPress"
+            }
+          ]
+        },
+        {
+          "id": "combat",
+          "categoryName": "Combat",
+          "actions": [
+            {
+              "id": "act_primaryFire",
+              "actionName": "Primary Fire",
+              "defaultBinding": "RT",
+              "userBinding": "RT"
+            },
+            {
+              "id": "act_secondaryFire",
+              "actionName": "Secondary Fire / Aim",
+              "defaultBinding": "LT",
+              "userBinding": "LT"
+            },
+            {
+              "id": "act_reload",
+              "actionName": "Reload",
+              "defaultBinding": "X",
+              "userBinding": "X"
+            },
+            {
+              "id": "act_melee",
+              "actionName": "Melee Attack",
+              "defaultBinding": "RightStickPress",
+              "userBinding": "RightStickPress"
+            }
+          ]
+        },
+        {
+          "id": "interface",
+          "categoryName": "Interface",
+          "actions": [
+            {
+              "id": "act_inventory",
+              "actionName": "Open Inventory",
+              "defaultBinding": "Y",
+              "userBinding": "Y"
+            },
+            {
+              "id": "act_scoreboard",
+              "actionName": "Show Scoreboard",
+              "defaultBinding": "Back",
+              "userBinding": "Back"
+            },
+            {
+              "id": "act_menu",
+              "actionName": "Game Menu",
+              "defaultBinding": "Start",
+              "userBinding": "Start"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "version": "1.0.0",
+  "_hubMeta": {
+    "author": "Sapphire",
+    "description": "12/18 keybindings for Games",
+    "type": "community",
+    "submittedAt": "2025-12-18T20:02:57.387Z",
+    "tags": [
+      "games",
+      "community"
+    ]
+  }
+}
