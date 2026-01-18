@@ -1,6 +1,6 @@
 {
   "version": "1.0.0",
-  "lastUpdated": "2025-12-18T20:11:11.837Z",
+  "lastUpdated": "2026-01-18T21:14:05.359Z",
   "cdnBaseUrl": "https://cdn.jsdelivr.net/gh/SapphireSlate/keybind-profiles@main",
   "games": [
     {
@@ -421,26 +421,6 @@
           "tags": [
             "default",
             "official"
-          ]
-        }
-      ]
-    },
-    {
-      "gameId": "games",
-      "gameName": "Games",
-      "coverImage": null,
-      "profiles": [
-        {
-          "id": "games_1218_mjbvav3f",
-          "name": "12/18",
-          "path": "profiles/games/1218.json",
-          "type": "community",
-          "author": "Sapphire",
-          "description": "12/18 keybindings for Games",
-          "version": "1.0.0",
-          "lastUpdated": "2025-12-18T20:02:58.051Z",
-          "tags": [
-            "community"
           ]
         }
       ]
@@ -958,5 +938,5 @@
       ]
     }
   ],
-  "totalProfiles": 48
+  "totalProfiles": 47
 }
